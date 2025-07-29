@@ -10,6 +10,8 @@ In the age of big data, storage efficiency has become a significant challenge. F
 
 We developed two programs — `compress` and `uncompress` — that utilize Huffman Compression to efficiently reduce file sizes and later restore them to their original form.
 
+![img](assets/huffman_coding.png)
+
 #### Compress
 
 The `compress` program takes an input file and generates a compressed version using Huffman encoding. Specifically, we:
