@@ -52,3 +52,10 @@ For grading and testing purposes, we ensured that our solution works with input 
 - Our implementations of compress and uncompress are not required to interoperate with the reference binaries.
 
 - We were free to modify the starter code and Makefile, as long as our final solution could be compiled using make and executed using the specified commands.
+
+### Resources
+
+- [**Project Workflow**](specs/project_workflow.md)
+- [**Design Notes**](specs/design_notes.md)
+- [**How to Debug**](specs/how_to_debug.md)
+- [**Common Issues**](specs/common_issues.md)
